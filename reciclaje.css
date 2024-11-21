@@ -1,0 +1,31 @@
+body{
+background-image: url('images\ amibiente.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+         }
+         header{
+            background-color: #125014;
+            color: rgb(83, 180, 37);
+            text-align: center;
+            padding: 25px;
+        }
+        h1{
+            margin: 0;
+        }
+        H2{
+            color: #0c7a6c;
+        }
+        .content{
+            padding: 20px;
+        }
+        p{
+            color: #000000;
+            font-size: 20px;
+            line-height: 1.6;
+        }
+        img{
+            display: flex;
+            justify-content: space-around;
+            width: 230px;
+            height: 150px;
+        }
